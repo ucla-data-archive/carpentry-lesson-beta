@@ -1,5 +1,9 @@
 # Library Carpentry: The UNIX Shell
 
+## Reference:  https://carpentries.github.io/lesson-example/01-design/index.html
+#  test site link: https://ucla-data-archive.github.io/carpentry-lesson-beta
+
+
 ## Maintainers for Library Carpentry: The UNIX Shell
 
 - [Anna Oates](https://twitter.com/annaoates)
@@ -15,9 +19,6 @@
 - [Nilani Ganeshwaran](https://github.com/uom-nilani)
 
 Lesson Maintainers communication is via the [team site](https://github.com/orgs/LibraryCarpentry/teams/lc-shell-maintainers).
-
-##  UCLA testing notes:   
-website:   https://carpentries.github.io/lesson-example/01-design/index.html
 
 
 ## Library Carpentry
